@@ -9,10 +9,6 @@
 - **2025.01.15** Coming soon！
 "Multi-Scale Alternating Compensation Network with Illumination Smoothness for Low-Light Image Enhancement"
 
-# The architecture of MacNet
-<p align="center">
-  <img src="figures/MacNet.png" width="100%" />
-</p>
 
 # The architecture of MacNet
 <p align="center">
@@ -32,12 +28,12 @@
 
 ## FiveK
 <p align="center">
-  <img src="figures/result_FiveK.png" width="100%" />
+  <img src="figures/result_FiveK.png" width="50%" />
 </p>
 
 ## No-reference⬇️
 <p align="center">
-  <img src="figures/BRISQUE_noreference.png" width="100%" />
+  <img src="figures/BRISQUE_noreference.png" width="50%" />
 </p>
 
 # Qualitative Analysis
