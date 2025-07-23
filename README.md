@@ -10,6 +10,51 @@
 "Multi-Scale Alternating Compensation Network with Illumination Smoothness for Low-Light Image Enhancement"
 
 # The architecture of MacNet
+<p align="center">
+  <img src="figures/MacNet.png" width="100%" />
+</p>
+
+# The architecture of MacNet
+<p align="center">
+  <img src="figures/MacNet.png" width="100%" />
+</p>
+
+# Quantitative Analysis
+## LOL_v1 and LOL_v2
+<p align="center">
+  <img src="figures/result_LOL_v1v2.png" width="100%" />
+</p>
+
+## LOL_v2_synthetic
+<p align="center">
+  <img src="figures/result_LOL_v2syn.png" width="100%" />
+</p>
+
+## FiveK
+<p align="center">
+  <img src="figures/result_FiveK.png" width="100%" />
+</p>
+
+## No-reference⬇️
+<p align="center">
+  <img src="figures/BRISQUE_noreference.png" width="100%" />
+</p>
+
+# Qualitative Analysis
+## LOL_v1
+<p align="center">
+  <img src="figures/visualcomparison_LOLv1.png" width="100%" />
+</p>
+
+## No-reference
+<p align="center">
+  <img src="figures/visualcomparison_noreference.png" width="100%" />
+</p>
+
+## Illumination Component
+<p align="center">
+  <img src="figures/result_illumination.png" width="100%" />
+</p>
 
 
 # Results
